@@ -1,4 +1,4 @@
-# Project Setup Guide (Windows Only)
+# Project Setup Guide 
 
 This guide provides a structured approach to setting up your project environment on Windows, covering the installation of essential dependencies like FFmpeg and PortAudio. Additionally, it walks through the creation of a Python virtual environment using various methods such as Pipenv, pip, and Conda.
 
